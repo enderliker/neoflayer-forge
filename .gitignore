@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Test server heavy binaries and runtime world state
+test_server/installer.jar
+test_server/installer.jar.log
+test_server/libraries/
+test_server/logs/
+test_server/world/
+test_server/usercache.json
+test_server/usernamecache.json
+test_server/crash-reports/
+
+# OS and logs
+*.log
+.DS_Store

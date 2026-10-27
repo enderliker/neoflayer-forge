@@ -1,0 +1,9 @@
+[submodule "node-minecraft-protocol-forge"]
+	path = node-minecraft-protocol-forge
+	url = https://github.com/enderliker/node-minecraft-protocol-forge.git
+[submodule "mineflayer"]
+	path = mineflayer
+	url = https://github.com/PrismarineJS/mineflayer.git
+[submodule "node-minecraft-protocol"]
+	path = node-minecraft-protocol
+	url = https://github.com/PrismarineJS/node-minecraft-protocol.git
